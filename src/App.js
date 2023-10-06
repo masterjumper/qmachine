@@ -91,7 +91,7 @@ function App() {
                     </a>
                   </div>
                   <div className="text-end">
-                    <a href="http://localhost:3000" rel="noreferrer" className="btn" style={{backgroundColor: appColor, transition: 'background-color 3s linear', color:"white" }} id="new-quote">Next Quote</a>
+                    <a href="https://www.folderinformatica.com.ar/qmachine" rel="noreferrer" className="btn" style={{backgroundColor: appColor, transition: 'background-color 3s linear', color:"white" }} id="new-quote">Next Quote</a>
                   </div>
                 </div>             
             </div>
