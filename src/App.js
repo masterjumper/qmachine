@@ -104,7 +104,7 @@ function App() {
         </div>
       </body>
       <footer style={{position:'fixed', left: 0, bottom: 0, width: '100%', backgroundColor: appColor, transition: 'background-color 3s linear', color:"white" }}>
-        <h6 style={{fontSize:'12px'}}>by <a href="https://www.folderinformatica.com.ar" target="_blank" rel="noopener noreferrer" style={{color:"white", textDecoration: 'none' }}>S.Muguerza</a></h6>
+        <h6 style={{fontSize:'12px'}}>by <a href="https://www.folderinformatica.com.ar" target="_blank" rel="noopener noreferrer" style={{color:"white", textDecoration: 'none' }}>Folder Informatica</a></h6>
       </footer>
     </div>
   );
